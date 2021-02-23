@@ -15,3 +15,6 @@ moshopserver：
 TO DO:
 1，目前只实现了banner的维护接口，还需要实现2，目前还需要实现hotgoods，newgoods以及goods栏目的后端接口
 2，接口认证方式还需要调整，目前太过死板。
+
+效果预览：
+![image](https://github.com/bingLAN/mmshop/tree/master/images/2b317ebd1e986cc6236865a2192b3888.png)
