@@ -17,4 +17,5 @@ TO DO:
 2，接口认证方式还需要调整，目前太过死板。
 
 效果预览：
+
 ![image](https://github.com/bingLAN/mmshop/blob/master/images/1.png)
