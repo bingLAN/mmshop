@@ -92,7 +92,7 @@ var LoginUserId string
 func FilterFunc(ctx *context.Context) {
 
 	controller, action := getControllerAndAction(ctx.Request.RequestURI)
-	token := ctx.Input.Header("x-nideshop-token")
+	token := ctx.Input.Header("x-wxshop-token")
 
 	if action == "auth/loginByWeixin" {
 		return
